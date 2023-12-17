@@ -180,8 +180,8 @@ public class HealthcareDemo {
 ### Scenario: E-commerce Order Processing
 
 
-In the e-commerce example, the system handles different sales items like Product and Service. 
-It applies operations like Discount and Tax Calculation to these items, enabling easy addition of new item types and financial processes without altering the existing item structures.
+In the e-commerce example, the system handles different sales items like `Book` and `Electronics`. 
+It applies operations like `Discount` and `Tax Calculation` to these items, enabling easy addition of new item types and financial processes without altering the existing item structures.
 
 #### Use Visitor pattern
 
